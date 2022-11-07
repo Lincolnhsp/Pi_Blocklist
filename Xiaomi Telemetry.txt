@@ -1,0 +1,8 @@
+# -------------------------------------[INFO]---------------------------------------
+## Xiaomi Telemetry and Tracking Block
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 tracking.intl.miui.com
+
+
