@@ -15,8 +15,9 @@
 127.0.0.1 content.businessinfoline.com
 127.0.0.1 cr-eec.etp-prod.com
 127.0.0.1 dntcl.qualaroo.com
-127.0.0.1 dntcl.qualaroo.com
+127.0.0.1 eec.crunchyroll.com
 127.0.0.1 ellation.map.fastly.net
+127.0.0.1 fwmrm.net
 127.0.0.1 fy.v.vrv.co
 127.0.0.1 imp-v6.track.tappx.com
 127.0.0.1 pcva3.manifest.auditude.com
