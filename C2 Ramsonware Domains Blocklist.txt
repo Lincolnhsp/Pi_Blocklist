@@ -1,3 +1,8 @@
+! Title: C2 (Command & Control) Ramsonware BlockList
+! Description: Filters C2 Ramsonware Domains
+! Author: Lincoln Hirata
+! Expires: Never
+
 # -------------------------------------[INFO]---------------------------------------
 ## C2 Ramsonware Domains Blocklist
 ## Update on 08/Mar/2024
