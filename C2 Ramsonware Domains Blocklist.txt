@@ -567,6 +567,7 @@
 0.0.0.0	8vs.com
 0.0.0.0	94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at
 0.0.0.0	974gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com
+0.0.0.0	99spedmart.eu
 0.0.0.0	9hrds.wolfcrap.at
 0.0.0.0	a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at
 0.0.0.0	aa12111.top
@@ -634,6 +635,7 @@
 0.0.0.0	asianbooty.net
 0.0.0.0	aspectdesigns.com.au
 0.0.0.0	atlpvt.com
+0.0.0.0	atnp.rsrs
 0.0.0.0	audetlaw.com
 0.0.0.0	autohaus-seevetal.com
 0.0.0.0	avancarvisual.com.br
@@ -704,6 +706,7 @@
 0.0.0.0	bluedreambd.com
 0.0.0.0	blxbymhjva.info
 0.0.0.0	bnjhx.eu
+0.0.0.0	bnwu.lol
 0.0.0.0	boilersandfurnaces.com
 0.0.0.0	bolizarsospos.com
 0.0.0.0	bonjourtablier.com
@@ -777,12 +780,14 @@
 0.0.0.0	cerberhhyed5frqa.xtrvb4.win
 0.0.0.0	cerberhhyed5frqa.zgf48j.win
 0.0.0.0	cerbyk.org
+0.0.0.0	cgtp.risos
 0.0.0.0	chaliawala.com
 0.0.0.0	challengestrata.com.au
 0.0.0.0	cheapshirts.us
 0.0.0.0	chong.joelle.free.fr
 0.0.0.0	chromebewfk.top
 0.0.0.0	citointechnologiesalefor.top
+0.0.0.0	ckysp.top
 0.0.0.0	classemgmt.testbada.com
 0.0.0.0	clhyelmwnuqhigecp.pw
 0.0.0.0	closerdaybyday.info
@@ -796,6 +801,7 @@
 0.0.0.0	corefitness.info
 0.0.0.0	cpawdrtxfjkwrkkl.pw
 0.0.0.0	cpruuvjf.pw
+0.0.0.0	cpt.risos
 0.0.0.0	cpyrltela.pw
 0.0.0.0	crosseunity.top
 0.0.0.0	csskol.org
@@ -809,6 +815,13 @@
 0.0.0.0	d3mpd.fe.uns.ac.id
 0.0.0.0	daffamedia.com
 0.0.0.0	daobt.pw
+0.0.0.0	dblpap1.top
+0.0.0.0	dblpap2.top
+0.0.0.0	dblpap3.top
+0.0.0.0	dbltest.top
+0.0.0.0	dbltest6.top
+0.0.0.0	dbltest8.top
+0.0.0.0	dblxz.risos
 0.0.0.0	dd7bsndhr45nfksdnkferfer.javakale.at
 0.0.0.0	de2nuvwegoo32oqv.torbook.li
 0.0.0.0	de2nuvwegoo32oqv.tordrims.li
@@ -821,12 +834,14 @@
 0.0.0.0	de2nuvwegoo32oqv.torworks.li
 0.0.0.0	dechehang.com
 0.0.0.0	definitionen.de
+0.0.0.0	desconhecido.lol
 0.0.0.0	dichiro.com
 0.0.0.0	dillardvideo.com
 0.0.0.0	dining-bar.com
 0.0.0.0	dirtyslim.org
 0.0.0.0	diwali2k15.in
 0.0.0.0	dkoipg.pw
+0.0.0.0	dksu.top
 0.0.0.0	dltvwp.it
 0.0.0.0	dmwajvm.fr
 0.0.0.0	dolfexalto.com
@@ -835,6 +850,7 @@
 0.0.0.0	dongxinh.com
 0.0.0.0	double-wing.de
 0.0.0.0	dp.g.doubleclick.net
+0.0.0.0	dpds.risos
 0.0.0.0	dqtfhkgskushlum.org
 0.0.0.0	drcordoba.com
 0.0.0.0	drdigitalmd.com
@@ -964,6 +980,7 @@
 0.0.0.0	ffoqr3ug7m726zou.zn90h4.bid
 0.0.0.0	ffoqr3ug7m726zou.zpjpsf.top
 0.0.0.0	ffoqr3ug7m726zou.zu3fzc.bid
+0.0.0.0	fgta.risos
 0.0.0.0	fhgetyh.com
 0.0.0.0	fhlnwolbbdg.pw
 0.0.0.0	fhvjsmtkirihxh.xyz
@@ -985,6 +1002,7 @@
 0.0.0.0	fqoapcjolfwwenqx.pw
 0.0.0.0	fqtdrnqmeofknd.biz
 0.0.0.0	frame3d.de
+0.0.0.0	freebasic.cn
 0.0.0.0	freemooon.org
 0.0.0.0	ftoxmpdipwobp4qy.10nzk9.top
 0.0.0.0	ftoxmpdipwobp4qy.17vj7b.top
@@ -1215,6 +1233,7 @@
 0.0.0.0	kkd47eh4hdjshb5t.angortra.at
 0.0.0.0	kknk-shop.dev.onnetdigital.com
 0.0.0.0	kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.com
+0.0.0.0	kmpct.top
 0.0.0.0	konyavakfi.nl
 0.0.0.0	kortingcodes.be
 0.0.0.0	kowoplosezox.com
@@ -1287,6 +1306,7 @@
 0.0.0.0	mcgroupuae.com
 0.0.0.0	millsmanagement.nl
 0.0.0.0	minteee.com
+0.0.0.0	mixcom.um
 0.0.0.0	mkis.org
 0.0.0.0	mmcomposite.dk
 0.0.0.0	mmhmtea.pw
@@ -1297,6 +1317,7 @@
 0.0.0.0	music.mbsaeger.com
 0.0.0.0	muuojcu.xyz
 0.0.0.0	mwqwverayognn.pw
+0.0.0.0	mwscg.top
 0.0.0.0	mxyfasm.pw
 0.0.0.0	mz7oyb3v32vshcvk.bidobject.li
 0.0.0.0	mz7oyb3v32vshcvk.getstar.li
@@ -1612,7 +1633,6 @@
 0.0.0.0	prodocument.co.uk
 0.0.0.0	ptlchemicaltrading.com
 0.0.0.0	pts764gt354fder34fsqw45gdfsavadfgsfg.kraskula.com
-0.0.0.0 public1.114dns.com
 0.0.0.0	pvwinlrmwvccuo.eu
 0.0.0.0	pxbycuqakasw.info
 0.0.0.0	qbqrfyeqqvcvv.pw
@@ -2244,6 +2264,9 @@
 0.0.0.0	yyre45dbvn2nhbefbmh.begumvelic.at
 0.0.0.0	zavidovodom.com
 0.0.0.0	zjfq4lnfbs7pncr5.onion.to
+0.0.0.0	zjfq4lnfbs7pncr5.tor2web.org
+0.0.0.0	ztuw5bvuuapzdfya.klimbim.pl
+0.0.0.0	zutzt67dcxr6mxcn.onion.to
 0.0.0.0	zjfq4lnfbs7pncr5.tor2web.org
 0.0.0.0	ztuw5bvuuapzdfya.klimbim.pl
 0.0.0.0	zutzt67dcxr6mxcn.onion.to
