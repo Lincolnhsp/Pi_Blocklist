@@ -1,0 +1,15 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Yoosee e ICsee Blocklist
+# -------------------------------------[INFO]---------------------------------------
+# Block ADs and other annoyances on YooSee and ICsee Camera Apps
+# ------------------------------------[FILTERS]-------------------------------------
+127.0.0.1 applovin.com
+127.0.0.1 pangle.io
+127.0.0.1 byteoversea.com
+127.0.0.1 inmobi.com
+127.0.0.1 mbridge.top
+127.0.0.1 vungle.com
+127.0.0.1 unityads.unity3d.com
+127.0.0.1 bigossp.com
+127.0.0.1 tradplus.cn
+127.0.0.1 adcolony.com
